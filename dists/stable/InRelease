@@ -1,0 +1,32 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Tue, 31 Mar 2026 09:55:59 +0000
+Label: Induz Releases
+Suite: stable
+MD5Sum:
+ 176bc063b5a83697d36278ecee22328e              129 Release
+ 0d43f6d8db28f6f7bfc115985428da58              439 main/binary-amd64/Packages
+ 4d605ff2391b38fef79f9d3c54979dc3              347 main/binary-amd64/Packages.gz
+SHA1:
+ 36dc2dbb7dbe93823d05214c83fa246951337bea              129 Release
+ 2b47896254bbffd8b233232b6c141879d39e85f7              439 main/binary-amd64/Packages
+ b7d643702ee3ab701e3bcb0766d096ae61a89cf4              347 main/binary-amd64/Packages.gz
+SHA256:
+ dc7e050bc8e18a9e94838c6448fa08cf0e31e78ca02ef5242823bb866b14124d              129 Release
+ 0e2665fddd281bc632b65c598899f5f8279764a8160d92f6e83327fea5398fb2              439 main/binary-amd64/Packages
+ b2e6bbb14471d08fb478e6d327fd082cc82a3e8a29eb08e3889b51235ab2be8a              347 main/binary-amd64/Packages.gz
+SHA512:
+ 92f35384eaf7fb954769a3c59157c565cf388b7a9189f936670dc9e0082ab27453e92ceb73f07c066b759a96a6f6a52159515cbb3fe3f455a33fbfc433bde7e0              129 Release
+ 4ab7a7aa068e010f0338641da9d4ae43baf928cd80686fb0440cbe2e6631e7bf89359908ec666c2bd02a38837e284a4ae040a54d7a62b9c46b1e40ed03e5b5e7              439 main/binary-amd64/Packages
+ dd396d826b2b01af6a42305756acca1ab7be39e8b1418039893865120881edf4e256c424bd196ea4780a0a7a6ad246750399d1d50700527f02fc69583b9b1eb8              347 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQRsNkTwlc+e0g2PDXEJ54f7ZDVpHAUCacuaLwAKCRAJ54f7ZDVp
+HL59AQDqKcidhv1VjjVRSv+Pgj3OwAC6JgeCogVCwEHCaURv9AD/ekEBh3oYk+Wn
+fFk+yex5sOjC5VyLVMhF8LIfFMpYcgk=
+=v4VO
+-----END PGP SIGNATURE-----
