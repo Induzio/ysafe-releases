@@ -1,18 +1,3 @@
-Package: y-safe
-Version: 0.0.1
-Architecture: amd64
-Maintainer: you
-Installed-Size: 56780
-Depends: libayatana-appindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
-Filename: pool/main/YSafe_0.0.1_amd64.deb
-Size: 20686574
-MD5sum: 9050567416020607cc70052c19010ea6
-SHA1: 41b1d9f9c4d33e1343b3c701890b6e2a3172556a
-SHA256: 99ae5023bd2fea0b95ee28f62ec879bc115e142e102c1df93e755b1b3ae4a484
-Priority: optional
-Description: A Tauri App
- (none)
-
 Package: ysafe-desktop
 Version: 0.1.0
 Architecture: amd64

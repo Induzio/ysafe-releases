@@ -1,0 +1,18 @@
+{
+  "version": "v0.2.14",
+  "released_at": "2026-05-22T10:09:24Z",
+  "downloads": {
+    "linux": {
+      "appimage": "https://github.com/Induzio/ysafe-releases/releases/download/v0.2.14/YSafe_0.0.1_amd64.AppImage",
+      "deb": "https://github.com/Induzio/ysafe-releases/releases/download/v0.2.14/YSafe_0.0.1_amd64.deb",
+      "rpm": "https://github.com/Induzio/ysafe-releases/releases/download/v0.2.14/YSafe-0.0.1-1.x86_64.rpm"
+    },
+    "windows": {
+      "exe": "https://github.com/Induzio/ysafe-releases/releases/download/v0.2.14/YSafe_0.0.1_x64-setup.exe",
+      "msi": "https://github.com/Induzio/ysafe-releases/releases/download/v0.2.14/YSafe_0.0.1_x64_en-US.msi"
+    },
+    "macos": {
+      "dmg": "https://github.com/Induzio/ysafe-releases/releases/download/v0.2.14/YSafe_0.0.1_universal.dmg"
+    }
+  }
+}
